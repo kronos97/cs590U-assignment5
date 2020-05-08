@@ -1,0 +1,4 @@
+#Tue Apr 28 21:54:56 EDT 2020
+base.0=/Users/mayurshastri/Desktop/Labyrinth/UMass/ISHTUDIES/cs590/falcon-master/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
